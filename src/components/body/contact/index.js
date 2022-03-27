@@ -14,7 +14,7 @@ const Contact = () => {
       <SocialContact/>
       </div>
       <div className='download'>
-        <a download href='https://hpoxfrhwcnbhztpnmgcv.supabase.in/storage/v1/object/sign/resumedl/resume.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJyZXN1bWVkbC9yZXN1bWUucGRmIiwiaWF0IjoxNjQ3MTgyNzY0LCJleHAiOjE5NjI1NDI3NjR9.bhkX0_bhPVj4tcz669A9XgX-_X354x0cBNR_YpZbCIc'>
+        <a target='_blank' rel='noreferrer' download href='https://firebasestorage.googleapis.com/v0/b/resume-2df82.appspot.com/o/Resume%20Naufal%20Arif%20Kurniawan(1).pdf?alt=media&token=3034c593-90b3-44da-b038-c05ad3acc889'>
           <img alt='download' src= {resumedl}/>
           Download Resume
         </a>
